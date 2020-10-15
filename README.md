@@ -19,7 +19,7 @@ Hello, data enthusiasts! Do you work with JupyterLab every single day? If so, he
 - Make sure you've installed __JupyterLab__ (_the new classic Jupyter Notebook interface_)
 - Run this command on terminal:
     ```bash
-    $ jupyter labextension install @lin26/JupyterLab_Arduino
+    $ jupyter labextension install @lin26/jupyterlab_arduino
     ```
 - Activate your JupyterLab:
     ```bash
