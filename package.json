@@ -1,6 +1,6 @@
 {
   "name": "@lin26/jupyterlab_arduino",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A JupyterLab theme inspired by Arduino IDE (dark mode)",
   "author": "lintangwisesa <lintangwisesa@ymail.com>",
   "keywords": [

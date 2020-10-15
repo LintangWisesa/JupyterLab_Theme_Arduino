@@ -15,7 +15,7 @@ const plugin: JupyterFrontEndPlugin<void> = {
     const style = '@lin26/JupyterLab_Arduino/index.css';
 
     manager.register({
-      name: 'JupyterLab_Arduino',
+      name: 'JupyterLab Arduino',
       isLight: true,
       load: () => manager.loadCSS(style),
       unload: () => Promise.resolve(undefined)
